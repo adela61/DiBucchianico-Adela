@@ -1,0 +1,33 @@
+    1  grep -help
+    2  man grep
+    3  clear
+    4  grep
+    5  grep --help
+    6  ls
+    7  cd downloads
+    8  cd prueba1
+    9  cd prueba2
+   10  ls
+   11  dir
+   12  ls
+   13  cd unidad5
+   14  ls
+   15  wc -w El-arriero.txt
+   16  clear
+   17  wc -w El-arriero.txt
+   18  grep -c vaquitas El-arriero.txt
+   19  cat el-arriero.txt | grep -i vaquitas
+   20  clear
+   21  cat El-arriero.txt | grep-i vaquitas
+   22  clear
+   23  cat El-arriero.txt | grep -i vaquitas
+   24  clear
+   25  cat El-arriero.txt | grep -i vaquitas
+   26   grep -i vaquitas
+   27  grep -c vaquitas El-arriero.txt
+   28  cat El-arriero.txt | grep -i vaquitas
+   29  tail --help
+   30  tail El-arriero.txt -50
+   31  clear
+   32  history 50
+   33  history | tail -n 50 > 50-comandos.log
